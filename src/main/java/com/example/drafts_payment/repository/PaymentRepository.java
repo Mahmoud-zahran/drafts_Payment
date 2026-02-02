@@ -1,6 +1,6 @@
-package com.example.drafts_payment.domain.repository;
+package com.example.drafts_payment.repository;
 
-import com.example.drafts_payment.domain.model.Payment;
+import com.example.drafts_payment.model.Payment;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

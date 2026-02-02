@@ -1,5 +1,6 @@
-package com.example.drafts_payment.domain.model;
+package com.example.drafts_payment.model;
 
+import com.example.drafts_payment.enums.PaymentStatus;
 import lombok.*;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.index.CompoundIndex;

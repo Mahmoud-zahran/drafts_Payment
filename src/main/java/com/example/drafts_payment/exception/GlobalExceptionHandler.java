@@ -1,4 +1,4 @@
-package com.example.drafts_payment.infrastructure.exception;
+package com.example.drafts_payment.exception;
 
 import org.springframework.dao.DuplicateKeyException;
 import org.springframework.http.HttpStatus;

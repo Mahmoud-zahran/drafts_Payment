@@ -1,7 +1,7 @@
-package com.example.drafts_payment.presentation.controller;
+package com.example.drafts_payment.controller;
 
-import com.example.drafts_payment.application.service.PaymentService;
-import com.example.drafts_payment.domain.model.Payment;
+import com.example.drafts_payment.service.PaymentService;
+import com.example.drafts_payment.model.Payment;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.*;

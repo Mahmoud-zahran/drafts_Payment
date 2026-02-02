@@ -1,4 +1,4 @@
-package com.example.drafts_payment.domain.model;
+package com.example.drafts_payment.enums;
 
 public enum PaymentStatus {
     DRAFT,
